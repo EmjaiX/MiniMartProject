@@ -1,0 +1,9 @@
+[
+    {
+    "userid":12,
+    "username":"blare22",
+    "password":"password123",
+    "name":{"first":"blare","last":"rivero"},
+    "dob":"22/5/1999"
+    }
+]
